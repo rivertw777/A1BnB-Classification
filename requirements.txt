@@ -1,0 +1,3 @@
+tensorflow
+boto3
+Pillow==9.5.0
